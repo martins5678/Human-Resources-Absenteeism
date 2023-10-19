@@ -40,43 +40,10 @@ The dashboard within the Human Resources domain is shown below. It has two views
 The menu button on the left pane of the dashboard facilitates navigation through the dashboard.
 
 
-![Hba1c Change](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/hba1c%20change.png)
+![Overview](https://raw.githubusercontent.com/Bankrid/Human-Resources-Absenteeism/main/img/absenteeism%20overview.jpg)
 
+![Dashboard](https://raw.githubusercontent.com/Bankrid/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard.jpg)
 
+![Dashboard Filter](https://raw.githubusercontent.com/Bankrid/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard%20filter.jpg)
 
-
-
-
-
-#### Are adverse effects observed depend on the dose of auralin or novodra?
-
-> Only Auralin causes adverse effects such as throat irritation and nausea. Also, these side effects tend to be more prevalent with higher doses of auralin. 
-
-![Side Effect](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/side%20effects.png)
-
-
-#### Does increase dose of auralin or novodra translate to increase HbA1c Reduction?
-
-> There is an inverse relationship between the dosage of auralin (Corr. Coef. = -0.0730) and 
-its corresponding impact on the HbA1c levels, whereas novodra (Corr. Coef. = 0.0898) demonstrates a direct proportional relationship with the response. Using  minimum effective dose of auralin, can mitigate the side effects. 
-
-![Dose Correlation](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/dose%20correlation.png)                    
-
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankrid.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
