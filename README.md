@@ -1,12 +1,12 @@
 
 # Human Resources Absenteeism
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankrid.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankoleridwan.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
 
 
 ## Introduction
-![Banner](https://raw.githubusercontent.com/Bankrid/Human-Resources-Absenteeism/main/img/absenteeism.jpg)
+![Banner](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/absenteeism.jpg)
 
 Absenteeism, the consistent and unexcused absence of employees from work, can have profound negative implications on a company's performance. First and foremost, it disrupts workflow and productivity, leading to delays in project completion and compromised customer service. Additionally, absenteeism significantly burdens coworkers who must compensate for the missing team members, potentially causing burnout and decreased morale. Ultimately, the cumulative impact of absenteeism can erode employee engagement, damage the company's reputation, and hamper its overall success.
 
@@ -40,10 +40,10 @@ The dashboard within the Human Resources domain is shown below. It has two views
 The menu button on the left pane of the dashboard facilitates navigation through the dashboard.
 
 
-![Overview](https://raw.githubusercontent.com/Bankrid/Human-Resources-Absenteeism/main/img/absenteeism%20overview.jpg)
+![Overview](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/absenteeism%20overview.jpg)
 
-![Dashboard](https://raw.githubusercontent.com/Bankrid/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard.jpg)
+![Dashboard](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard.jpg)
 
-![Dashboard Filter](https://raw.githubusercontent.com/Bankrid/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard%20filter.jpg)
+![Dashboard Filter](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard%20filter.jpg)
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankrid.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
