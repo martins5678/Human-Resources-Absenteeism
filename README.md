@@ -17,7 +17,7 @@ Absenteeism, the consistent and unexcused absence of employees from work, can ha
 
 ## Problem Statements
 
-The medium-sized company noticed a drop in performance from the team. A closer investigation into the causes reveals chronic absenteeism is quite a problem. As a data analyst in the company, I am tasked to use Human Resources Absenteeism data to design a Power BI dashboard that will provide quick insights to help the management help those missing work.
+A medium-sized company noticed a drop in performance from the team. A closer investigation into the causes reveals chronic absenteeism is quite a problem. As a data analyst in the company, I am tasked to use Human Resources Absenteeism data to design a Power BI dashboard that will provide quick insights to help the management help those missing work.
 
 ## Skills and Tools Used
 * PowerBI
@@ -25,7 +25,7 @@ The medium-sized company noticed a drop in performance from the team. A closer i
 * Project Management: Trello Board
 * Data Visualization
 * Data Cleaning
-* Data Exploartion 
+* Data Exploration 
 
 ## Data Visualization Processing
 
@@ -35,7 +35,7 @@ The project commenced with importing the dataset into Power BI, facilitating my 
 
 ## Dashboard
 
-The dashboard within the Human Resources domain is shown below. It has two views: project overview and dashboard view. The project overview gave an account of the problem statement, while the dashboard shows key performance indicators (KPIs). The dashboard can be filtered to a granular level using the apply filter button. Filters hidden by default become visible when clicking the apply filter button.
+The dashboard within the Human Resources domain is shown below. It has two views: project overview and dashboard view. The project overview gave an account of the problem statement, while the dashboard shows different charts to convey insights from the dataset. The dashboard can be filtered to a granular level using the apply filter button. Filters hidden by default become visible when clicking the apply filter button.
 
 The menu button on the left pane of the dashboard facilitates navigation through the dashboard.
 
