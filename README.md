@@ -6,7 +6,7 @@
 
 
 ## Introduction
-![Banner](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/absenteeism.jpg)
+![Banner](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/banner.jpg)
 
 Absenteeism, the consistent and unexcused absence of employees from work, can have profound negative implications on a company's performance. First and foremost, it disrupts workflow and productivity, leading to delays in project completion and compromised customer service. Additionally, absenteeism significantly burdens coworkers who must compensate for the missing team members, potentially causing burnout and decreased morale. Ultimately, the cumulative impact of absenteeism can erode employee engagement, damage the company's reputation, and hamper its overall success.
 
