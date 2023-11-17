@@ -5,14 +5,16 @@
 ## Introduction
 ![Banner](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/banner.jpg)
 
-Absenteeism, the consistent absence of employees, can have the ultimate implication of eroding employee engagement, damaging the company’s reputation, and hampering its overall success. As in the case of a medium-sized company, Company X, that observed a significant drop in performance, and a deep inquiry into the cause revealed absenteeism is quite a problem. This has disrupted the company’s workflow and productivity, leading to delays in project completion and compromised customer service. Additionally, the incident has significantly burdened coworkers who had to compensate for the missing team members, potentially causing burnout, decreased morale and forcing them to protest for better working conditions. At this point, the management wants to make a data-driven decision to know how to help those who are a victim of chronic absenteeism.
-As the data analyst, I lead a team of 4 analysts to carry out in-depth analysis to identify hidden patterns to help the management make informed decisions. We discovered preventable health conditions that are more likely due to the unhealthy lifestyle of the employee as the primary cause of being absent from work. The project was a worthwhile journey where we were able to come up with insights and recommendations that helped the management reduce the menace before it put an end to the company's existence. 
+Company X  observed a significant drop in performance, and a deep inquiry into the cause revealed absenteeism is quite a problem. This has disrupted the company’s workflow and productivity, leading to delays in project completion and compromised customer service. Additionally, the incident has significantly burdened coworkers who had to compensate for the missing team members, potentially causing burnout and decreased morale. The management wants to make a data-driven decision to know how to help those victims of chronic absenteeism. 
+By analyzing the human resources dataset, we discovered that health conditions that are more likely due to unhealthy lifestyles are quite common. We communicated the insights and made recommendations to the management to reduce the menace before it put an end to the company's existence.
 
 
 
 ## Goal of the Project
 
-> Our task is to find a relatable pattern between the rate of absenteeism and season and employee information such as education level, social lifestyle, responsibility,  and body mass index. Then, we are to design an interactive Power BI dashboard that the management can use to get quick insight for making data-driven decisions to help the affected people.   
+> Our task is to unearth insights into the causes of absenteeism using the human resources dataset, design a user-friendly power BI dashboard for the management to make quick data-driven insights, and provide recommendations to address the issue. 
+
+   
 
 ## Skills and Tools Used
 
@@ -24,7 +26,7 @@ As the data analyst, I lead a team of 4 analysts to carry out in-depth analysis 
 * Leadership
 
 
-## Task Overview
+## Task Overview (My Contributions)
 
 Here is a concise high-level review of the critical tasks to achieve the project goal.
 * Gathered data from different sources, including SQL database and CSV text file, loading it to Power BI
