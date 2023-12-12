@@ -1,9 +1,9 @@
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankoleridwan.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ridwanbankole.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwanbankole/)
 
 
 ## Introduction
-![Banner](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/banner.jpg)
+![Banner](https://raw.githubusercontent.com/ridwanbankole/Human-Resources-Absenteeism/main/img/banner.jpg)
 
 Company X  observed a significant drop in performance, and a deep inquiry into the cause revealed absenteeism is quite a problem. This has disrupted the company’s workflow and productivity, leading to delays in project completion and compromised customer service. Additionally, the incident has significantly burdened coworkers who had to compensate for the missing team members, potentially causing burnout and decreased morale. The management wants to make a data-driven decision to know how to help those victims of chronic absenteeism. 
 By analyzing the human resources dataset, we discovered that health conditions that are more likely due to unhealthy lifestyles are quite common. We communicated the insights and made recommendations to the management to reduce the menace before it put an end to the company's existence.
@@ -42,7 +42,7 @@ Here is a concise high-level review of the critical tasks to achieve the project
 We came up with the interactive dashboard shown below. The dashboard has two views: project overview and dashboard view, with an easy-to-use navigation bar to toggle between the pages. The dashboard can be filtered to a granular level using the apply filter button. Filters are hidden by default and become visible when clicking the apply filter button.
 
 
-![Dashboard](https://raw.githubusercontent.com/bankoleridwan/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard.jpg)
+![Dashboard](https://raw.githubusercontent.com/ridwanbankole/Human-Resources-Absenteeism/main/img/absenteeism%20dashboard.jpg)
 
 ## Insights
 
@@ -76,4 +76,4 @@ I sincerely acknowledge the effort of my colleague in bringing this project to f
 
 
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://ridwanbankole.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
